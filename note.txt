@@ -1,0 +1,10 @@
+Summary
+- Arrays store multiple values in one variable.
+- Array indexes start at 0.
+- push() adds an item to the end.
+- pop() removes an item from the end.
+- unshift() adds an item to the beginning.
+- shift() removes an item from the beginning.
+- length returns the number of elements.
+- for...of loops through array items.
+- map(), filter(), and find() are commonly used array methods.
